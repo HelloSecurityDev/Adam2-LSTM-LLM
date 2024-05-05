@@ -1,7 +1,7 @@
 # Adam2-LSTM-LLM
 a python based Long Short-Term Memory (LSTM) Language Model (LLM) named Adam2
 
-The Adam2 LSTM LLM (Adam2 Long Short-Term Memory Language Model), created by Adam Rivers and Hello Security, is an advanced natural language processing (NLP) script written in Python. It is designed to generate human-like text based on input prompts, leveraging cutting-edge deep learning algorithms and the Long Short-Term Memory (LSTM) neural network architecture.
+The Adam2 LSTM LLM (Adam2 Long Short-Term Memory Language Model), created by [Adam Rivers](https://abtzpro.github.io) and [Hello Security](https://hellosecurityllc.github.io), is an advanced natural language processing (NLP) script written in Python. It is designed to generate human-like text based on input prompts, leveraging cutting-edge deep learning algorithms and the Long Short-Term Memory (LSTM) neural network architecture.
 
 ## Functionality:
 This script provides a sophisticated solution for generating contextually relevant responses to input prompts. It excels in mimicking human-like dialogue and can be used for various applications, including conversational agents, content generation, and language learning.
