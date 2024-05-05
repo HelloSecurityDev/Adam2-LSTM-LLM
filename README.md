@@ -32,6 +32,10 @@ The Adam2 LSTM LLM script can be applied in various use case scenarios:
 - **Content Generation:** Writers and content creators can use the script to generate dialogue snippets, story outlines, or creative writing prompts.
 - **Language Learning:** The generated text can serve as practice material for language learners, helping them improve their comprehension and writing skills.
 
+## Lovingly Named after its Creator:
+The Adam2 LSTM LLM AI is lovingly named after its creator, Adam Rivers. 
+Adam's passion for natural language processing and deep learning inspired the development of this powerful tool for text generation.
+
 ## Requirements
 - Python 3.7 or higher
 - TensorFlow 2.0 or higher
