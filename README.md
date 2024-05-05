@@ -15,13 +15,17 @@ This project implements a Long Short-Term Memory (LSTM) Language Model (LLM) nam
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your/repo.git
-
-2. Install the required packages:
+   git clone https://github.com/HelloSecurityDev/Adam2-LSTM-LLM
+   ```
+   then
+   ```bash
+   cd Adam2-LSTM-LLM
+   ```
+3. Install the required packages:
    ```bash
    pip install tensorflow tkinter numpy
 
-3. Launch the script:
+4. Launch the script:
    ```bash
    python Adam2.py
 
