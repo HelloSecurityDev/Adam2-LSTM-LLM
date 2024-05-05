@@ -50,7 +50,7 @@ The project includes a GUI interface for interacting with the model. The interfa
 Contributions to the project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 ## Authors & Developers
-Adam2 LSTM LLM AI was developed by ![Hello Security](https://www.hellosecurityllc.github.io) and ![Adam Rivers](https://www.abtzpro.github.io)
+Adam2 LSTM LLM AI was developed by [Hello Security](https://www.hellosecurityllc.github.io) and [Adam Rivers](https://www.abtzpro.github.io)
 
 ## Notes & Disclaimers
 Adam2 is still in active development and changes are being made every day. there are bound to be errors, quirks, and unexpected bugs. Please report any issues or bugs experienced in the correct fashion.
