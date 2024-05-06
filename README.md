@@ -68,4 +68,5 @@ Adam2 LSTM LLM AI was developed by [Hello Security](https://hellosecurityllc.git
 
 ## Notes & Disclaimers
 - Adam2 is still in active development and changes are being made every day. there are bound to be errors, quirks, and unexpected bugs. Please report any issues or bugs experienced in the correct fashion.
-- The Adam2 LSTM LLM is using a method to train the model on script run, thus, it will take quite some time on an average machine to train the model. It currently uses 10 epochs of 2380 steps and soley balances the training on CPU and Memory resources. Plans to update the training process in the future will significantly decrease the training time. But for now, be aware it will take time to train on first run. 
+
+- The Adam2 LSTM LLM is using a method to train the model on script run, thus, it will take quite some time on an average machine to train the model. It currently uses 10 epochs of 2380 steps and balances the brunt of the training on CPU and Memory resources. Plans to update the training process in the future will significantly decrease the training time. But for now, be aware it will take time to train on first run. 
